@@ -1,5 +1,5 @@
 # PMO-Tool
- - It's an HRMS tool for one of client from my organization.
+ - It's an HRMS tool for my organization where we need to track the employee all management activity.
 
 ## Features
 - Add Employee (ID, Name, Department)
