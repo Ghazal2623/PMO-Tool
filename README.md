@@ -11,3 +11,8 @@
 - Java 8+
 - HashMap for in-memory storage
 - Scanner for console input
+
+*Author:* Ghazal Ashraf  
+*Role:* Java Developer / Software Consultant  
+*Email:* ghazal.ashraf24@gmail.com  
+*LinkedIn:* (https://www.linkedin.com/in/ghazal-ashraf)
